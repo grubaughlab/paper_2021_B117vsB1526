@@ -1,7 +1,7 @@
 # comparative_SARS-CoV-2_epi
 
 
-Comparative phylodynamics of B.1.1.7 and B.1.526 (including sublineages)
+Comparative phylodynamics of Alpha and Iota
 
 Variant folders contain: (1) ML tree w/ 1000 bootstraps (GTR+G sub model) built with IQTree (2) Time-resolved phylogenetic tree built with TreeTime (3) BEAST files for discrete phylogeographic reconstruction.
 
